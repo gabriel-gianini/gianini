@@ -5,7 +5,7 @@
 - 🌱 Atualmente curso ADS na universidade ENIAC **Programação orientada a objeto**
 
 - 👨‍💻projetos disponíveis em [https://www.linkedin.com/in/gabriel-gianini-69201220b](https://www.linkedin.com/in/gabriel-gianini-69201220b)
-
+- 
 < h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 </p>
