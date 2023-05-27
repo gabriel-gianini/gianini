@@ -1,2 +1,2 @@
-# gianini
-mobile android studio
+# my name is Gabriel gianini
+mobile dev
